@@ -1,1 +1,1 @@
-# hello-ai
+# hello-AI
